@@ -1,0 +1,13 @@
+.titulo_reproductor{
+	font-family: 'Oswald', sans-serif;
+	margin: 10px auto 40px;
+}
+#playlist li{
+	font-family: 'Oswald', sans-serif;
+	cursor: pointer;
+}
+#playlist li.Active{
+	color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}

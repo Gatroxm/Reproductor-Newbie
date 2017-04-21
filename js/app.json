@@ -1,0 +1,74 @@
+{
+	"songs":[
+		{
+			"id" : 0,
+			"name" : "La Casa",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/La-Casa.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 1,
+			"name" : "Retrovisor",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Retrovisor.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 2,
+			"name" : "Sanitarios",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Sanitarios.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 3,
+			"name" : "Último-Polvo",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Último-Polvo.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 4,
+			"name" : "Delineador",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Delineador.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 5,
+			"name" : "Incertidumbre",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Incertidumbre.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 6,
+			"name" : "La terraza",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/La-terraza.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 7,
+			"name" : "Veneno",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Veneno.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 8,
+			"name" : "Me Hace Bien Me Hace Mal",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Me-Hace-Bien-Me-Hace-Mal.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		},
+		{
+			"id" : 9,
+			"name" : "Flor De Fuego",
+			"artist" : "Caramelos de Cianuro",
+			"song" : "music/Flor-De-Fuego.mp3",
+			"image" : "img/Lobby-Caramelos-de-Cianuro.jpg"
+		}
+	]
+}
